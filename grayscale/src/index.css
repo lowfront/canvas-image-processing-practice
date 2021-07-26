@@ -1,3 +1,8 @@
+#color, #grayColor {
+  width: 25px;
+  height: 25px;
+}
+
 #mc1 {
   position: absolute;
   z-index: 1;
